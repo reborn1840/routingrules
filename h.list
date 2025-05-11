@@ -11,4 +11,6 @@ DOMAIN-KEYWORD,tiaokanwang,PROXY
 DOMAIN-SUFFIX,ri.bi,PROXY
 # > 要福利
 DOMAIN-SUFFIX,1fuli.one,PROXY
+# > 福利吧论坛
+DOMAIN-KEYWORD,wnflb,PROXY
 
