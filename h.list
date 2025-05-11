@@ -1,6 +1,14 @@
 # h
 # logtime: 2025-5-11
 
-# > 海角社区
+# > SSRDOG
+DOMAIN-KEYWORD,ssrdog,PROXY
+# > 人人为我论坛
 DOMAIN-KEYWORD,haijiao,PROXY
 DOMAIN-KEYWORD,hjpicc,PROXY
+# > 海角社区
+DOMAIN-KEYWORD,tiaokanwang,PROXY
+DOMAIN-SUFFIX,ri.bi,PROXY
+# > 要福利
+DOMAIN-SUFFIX,1fuli.one,PROXY
+
