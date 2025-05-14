@@ -1,14 +1,16 @@
 # > SSRDOG
 DOMAIN-KEYWORD,ssrdog,PROXY
 DOMAIN-KEYWORD,urlapi-dodo,PROXY
-# > 人人为我论坛
+# > 海角社区
 DOMAIN-KEYWORD,haijiao,PROXY
 DOMAIN-KEYWORD,hjpicc,PROXY
-# > 海角社区
+# > 人人为我论坛
 DOMAIN-KEYWORD,tiaokanwang,PROXY
 DOMAIN-SUFFIX,ri.bi,PROXY
 # > 要福利
 DOMAIN-SUFFIX,1fuli.one,PROXY
 # > 福利吧论坛
 DOMAIN-KEYWORD,wnflb,PROXY
+DOMAIN-KEYWORD,laowang,PROXY
+DOMAIN-KEYWORD,fuliba,PROXY
 
