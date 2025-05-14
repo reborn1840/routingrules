@@ -1,0 +1,21 @@
+payload:
+# > 社交媒体（openclash专属）
+  - GEOIP,telegram
+  - GEOIP,facebook
+  - GEOIP,twitter
+# > SSRDOG
+  - DOMAIN-KEYWORD,ssrdog
+  - DOMAIN-KEYWORD,urlapi-dodo  
+# > 人人为我论坛
+  - DOMAIN-KEYWORD,haijiao
+  - DOMAIN-KEYWORD,hjpicc
+# > 海角社区
+  - DOMAIN-KEYWORD,tiaokanwang
+  - DOMAIN-SUFFIX,ri.bi
+# > 要福利
+  - DOMAIN-SUFFIX,1fuli.one
+# > 福利吧论坛
+  - DOMAIN-KEYWORD,wnflb
+  - DOMAIN-KEYWORD,laowang
+  - DOMAIN-KEYWORD,fuliba
+
