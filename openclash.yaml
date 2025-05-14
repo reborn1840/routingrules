@@ -6,10 +6,10 @@ payload:
 # > SSRDOG
   - DOMAIN-KEYWORD,ssrdog
   - DOMAIN-KEYWORD,urlapi-dodo  
-# > 人人为我论坛
+# > 海角社区
   - DOMAIN-KEYWORD,haijiao
   - DOMAIN-KEYWORD,hjpicc
-# > 海角社区
+# > 人人为我论坛
   - DOMAIN-KEYWORD,tiaokanwang
   - DOMAIN-SUFFIX,ri.bi
 # > 要福利
