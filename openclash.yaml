@@ -1,8 +1,4 @@
 payload:
-# > 社交媒体（openclash专属）
-  - GEOIP,telegram
-  - GEOIP,facebook
-  - GEOIP,twitter
 # > SSRDOG
   - DOMAIN-KEYWORD,ssrdog
   - DOMAIN-KEYWORD,urlapi-dodo  
